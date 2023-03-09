@@ -1,3 +1,2 @@
-
-I currently am learning C++ and am currently working on a game called JupyGon
+I currently am learning HTML/JS/CSS and am currently working on my website, going all HTML, baby!
 
