@@ -1,5 +1,5 @@
 # 🤷‍♂️ Who am I
-I'm Mizzel, a programmer from Louisiana, relative to Jakes1403, another developer. 
+I'm Mizzel, a programmer from Louisiana. 
 # Profile Visits 
 ![counter](https://profile-counter.glitch.me/%7BNotMizzel%7D/count.svg)
 # 💻 Tech Stack:
