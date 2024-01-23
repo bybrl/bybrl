@@ -11,4 +11,4 @@ I'm Mizzel, a programmer from Louisiana.
 I plan to finish my AllFiles project make an OS similar to TempleOS made by the late Terry Davis.
 
 # Fun Fact
-I'm actually learning Russian as a second language.
+I'm actually learning Russian and Latin as a second language.
