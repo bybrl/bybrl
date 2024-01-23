@@ -1,5 +1,5 @@
 # 🤷‍♂️ Who am I
-I'm Mizzel, a programmer from Louisiana. 
+I'm bybrl, formerly Mizzel, a programmer from Louisiana. 
 # Profile Visits 
 ![counter](https://profile-counter.glitch.me/%7BNotMizzel%7D/count.svg)
 # 💻 Tech Stack:
